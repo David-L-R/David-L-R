@@ -2,7 +2,13 @@
 
 🧠 I have a deep passion for learning, teaching, helping others achieve their career goals, and improving companies' internal processes.
 
-📫 You can reach me at david.rajcher@gmail.com
+📫 More Info: 
+
+<p align="center">
+    <a href="https://david-l-r.medium.com/" >Medium</a>
+    <a href="davidrajcher.com">My website</a>
+    <a href="https://www.linkedin.com/in/david-rajcher/">Linkedin</a>
+</p>
 
 🤖 My main technical skills:
 - React (& Next)
@@ -24,4 +30,4 @@
   <img src="https://user-images.githubusercontent.com/31222514/149814004-a3a2bf91-a257-4d1c-bdff-e1079a524359.png" width="10%" alt="GIT logo">
 </p>
 
-<a href="https://david-l-r.medium.com/" >Medium</a>
+
