@@ -13,4 +13,4 @@
 - Jest & Enzyme & Testing-library
 - Version control (GIT)
 
-<div style="color: red;">hello</div>
+<div style="color=red;">hello</div>
