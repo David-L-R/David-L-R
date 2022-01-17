@@ -2,6 +2,8 @@
 
 🧠 I have a deep passion for learning, teaching, helping others achieve their career goals, and improving companies' internal processes.
 
+📫 You can reach me at david.rajcher@gmail.com
+
 🤖 My main technical skills:
 - React (& Next)
 - Typescript & Javascript
@@ -11,4 +13,4 @@
 - Jest & Enzyme & Testing-library
 - Version control (GIT)
 
-📫 You can reach me at david.rajcher@gmail.com
+<div style="color: red;">hello</div>
