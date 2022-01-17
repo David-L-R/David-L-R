@@ -8,7 +8,7 @@
     <a href="https://david-l-r.medium.com/" >
 medium
     </a>
-    <a href="davidrajcher.com">
+    <a href="https://davidrajcher.com">
             <img src="https://user-images.githubusercontent.com/31222514/149814969-17b9fd51-5f95-4dcc-9517-24c9ab6ffa2f.png" alt="website logo" width="10%"/>
                  </a>
     <a href="https://www.linkedin.com/in/david-rajcher/">Linkedin</a>
