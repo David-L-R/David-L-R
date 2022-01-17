@@ -16,4 +16,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31222514/149812547-405716a0-b974-4da4-b749-f2b4a8adc1d8.png" width="10%" alt="Javascript logo">
   <img src="https://user-images.githubusercontent.com/31222514/149813300-65804694-d3ea-4e31-955d-dbc47229a82d.png" width="10%" alt="Typescript logo">
+  <img src="https://user-images.githubusercontent.com/31222514/149813532-e214a55c-9b91-4b71-bb17-0dcf18903f7a.png" width="10%" alt="CSS logo">
+  <img src="" width="10%" alt="HTML logo">
+  <img src="" width="10%" alt="NODE logo">
+  <img src="" width="10%" alt="Jest logo">
+  <img src="" width="10%" alt="GIT logo">
 </p>
+
