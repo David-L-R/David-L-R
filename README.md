@@ -13,4 +13,5 @@
 - Jest & Enzyme & Testing-library
 - Version control (GIT)
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AUnofficial_JavaScript_logo_2.svg&psig=AOvVaw2M9qwmH5vORjDXG4J70VmQ&ust=1642525750393000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCbhrGjufUCFQAAAAAdAAAAABAD)
+![jslogo](https://user-images.githubusercontent.com/31222514/149812547-405716a0-b974-4da4-b749-f2b4a8adc1d8.png)
+
