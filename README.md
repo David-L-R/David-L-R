@@ -1,4 +1,4 @@
-👋 I am a Javascript software developer and instructor with extensive experience leading both teams and projects, and well over a decade teaching and training students and staff.
+👋 I am a Javascript developer and instructor with extensive experience leading both teams and projects, and well over a decade teaching and training students and staff.
 
 🧠 I have a deep passion for learning, teaching, helping others achieve their career goals, and improving companies' internal processes.
 
@@ -23,3 +23,5 @@
   <img src="https://user-images.githubusercontent.com/31222514/149814008-745c7736-7881-41b9-bc0b-3b9a7c9ab087.png" width="10%" alt="Jest logo">
   <img src="https://user-images.githubusercontent.com/31222514/149814004-a3a2bf91-a257-4d1c-bdff-e1079a524359.png" width="10%" alt="GIT logo">
 </p>
+
+<a href="https://david-l-r.medium.com/" >Medium</a>
