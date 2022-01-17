@@ -2,7 +2,7 @@
 
 🧠 I have a deep passion for learning, teaching, helping others achieve their career goals, and improving companies' internal processes.
 
-📫 More Info: 
+ℹ️ More Info: 
 
 - [Articles](https://david-l-r.medium.com/)
 - [Website](https://davidrajcher.com)
