@@ -13,5 +13,7 @@
 - Jest & Enzyme & Testing-library
 - Version control (GIT)
 
-![small](https://user-images.githubusercontent.com/31222514/149812547-405716a0-b974-4da4-b749-f2b4a8adc1d8.png) ![small](https://user-images.githubusercontent.com/31222514/149812547-405716a0-b974-4da4-b749-f2b4a8adc1d8.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/31222514/149812547-405716a0-b974-4da4-b749-f2b4a8adc1d8.png" width="350" alt="Javascript logo">
+  <img src="https://user-images.githubusercontent.com/31222514/149812547-405716a0-b974-4da4-b749-f2b4a8adc1d8.png" width="350" alt="Javascript logo">
+</p>
