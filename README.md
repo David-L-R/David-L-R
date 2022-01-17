@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 I am a Javascript software developer and instructor with extensive experience leading both teams and projects, and well over a decade teaching and training students and staff.
 
-<!--
-**David-L-R/David-L-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Have a deep passion for learning, teaching, helping others achieve their career goals, and improving companies' internal processes.
 
-Here are some ideas to get you started:
+🤖 Main technical skills:
+- React (& Next)
+- Typescript & Javascript
+- CSS & CSS-in-JS & SCSS
+- HTML
+- Node & Express
+- Jest & Enzyme & Testing-library
+- Version control (GIT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me at david.rajcher@gmail.com
