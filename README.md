@@ -15,5 +15,5 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31222514/149812547-405716a0-b974-4da4-b749-f2b4a8adc1d8.png" width="10%" alt="Javascript logo">
-  <img src="https://user-images.githubusercontent.com/31222514/149812547-405716a0-b974-4da4-b749-f2b4a8adc1d8.png" width="10%" alt="Typescript logo">
+  <img src="https://user-images.githubusercontent.com/31222514/149813300-65804694-d3ea-4e31-955d-dbc47229a82d.png" width="10%" alt="Typescript logo">
 </p>
