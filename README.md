@@ -35,7 +35,8 @@
 - Docker 
 - K8S
 
-![node js](https://user-images.githubusercontent.com/31222514/149942855-29c661b7-f41c-4979-9de1-63d2d6b668fc.jpeg)
+![nodejs-1-logo](https://user-images.githubusercontent.com/31222514/149943028-37964d11-c107-4c09-a454-ed65ebb8cd1c.png)
 
+![Nodejs-Logo](https://user-images.githubusercontent.com/31222514/149943049-95f0909a-9c2b-4fae-bd04-647d531dd10d.png)
 
 
