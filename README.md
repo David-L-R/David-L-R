@@ -10,6 +10,7 @@
 
 🤖 My preferred technologies:
 - Frontend Frameworks: React (& Next)
+- UI frameworks: Storybook
 - Languages: Typescript & Javascript
 - Design: CSS-in-JS (but CSS & Sass is cool as well)
 - Backend: Node & Express
