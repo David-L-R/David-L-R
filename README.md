@@ -11,8 +11,7 @@
 🤖 My preferred technologies:
 - Frontend Frameworks: React (& Next)
 - Languages: Typescript & Javascript
-- Design: CSS & CSS-in-JS & SCSS
-- Web: HTML
+- Design: CSS-in-JS (but CSS & Sass is cool as well)
 - Backend: Node & Express
 - Testing: Jest & Testing-library
 - Version control: GIT
