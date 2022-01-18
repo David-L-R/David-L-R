@@ -8,7 +8,7 @@
 - [Articles](https://david-l-r.medium.com/)
 - [Website](https://davidrajcher.com)
 
-🤖 My main technical skills:
+🤖 My preferred technologies:
 - Frontend Frameworks: React (& Next)
 - Languages: Typescript & Javascript
 - Design: CSS & CSS-in-JS & SCSS
