@@ -33,6 +33,6 @@
 🔭 Learning Path For 2022
 
 - SQL and rational databases
-- Algorithms & Data structures
+- Algorithms & Data structures (and some Python)
 - Docker 
 - K8S
