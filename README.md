@@ -34,5 +34,6 @@
 
 - SQL and rational databases
 - Algorithms & Data structures (and some Python)
+- Rebuilding my personal websites using animations and SVGs!
 - Docker 
 - K8S
