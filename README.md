@@ -1,4 +1,6 @@
-👋 I am a Javascript developer and instructor with extensive experience leading both teams and projects, and well over a decade teaching and training students and staff.
+## 👋 I am a Javascript developer and instructor 
+
+💪 I have extensive experience leading both teams and projects, and well over a decade teaching and training students and staff.
 
 🧠 I have a deep passion for learning, teaching, helping others achieve their career goals, and improving companies' internal processes.
 
