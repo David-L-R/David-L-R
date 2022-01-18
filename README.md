@@ -1,4 +1,4 @@
-## 👋 Hey, I am a Javascript developer and instructor 
+## 👋 Hey, I am a Software developer and instructor 
 
 💪 I have extensive experience leading both teams and projects, and well over a decade teaching and training students and staff.
 
