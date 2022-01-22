@@ -7,8 +7,8 @@
 
 ### 🔥 I have a deep passion for 
 
-- Learning and education 
-- Teaching
+- Learning
+- Teaching & Education
 - Helping others achieve their career goals
 - Technology and its potential to boost all of the above
 
