@@ -1,5 +1,4 @@
-## 👋 Hey, 
-## I am a software developer and a web instructor
+## 👋 Hey, I am a software developer and a web instructor
 
 ### 🎖️ I have extensive experience 
 
