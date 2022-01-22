@@ -1,8 +1,8 @@
 ## 👋 Hey, I am a Software developer and an instructor
 
-💪 I have extensive experience leading both teams and projects, and well over a decade teaching and training students and staff.
+🎖️ I have extensive experience leading both teams and projects, and well over a decade teaching and training students and staff.
 
-🧠 I have a deep passion for learning, teaching, helping others achieve their career goals, and improving companies' internal processes.
+🔥 I have a deep passion for learning, teaching, helping others achieve their career goals, and improving companies' internal processes.
 
 ℹ️ More Info: 
 
