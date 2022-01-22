@@ -10,8 +10,7 @@
 - Learning and education 
 - Teaching
 - Helping others achieve their career goals
-
-And I am obsessed with the potential technology offers all of the above
+- Technology and its potential to boost all of the above
 
 ℹ️ More Info: 
 
@@ -20,6 +19,7 @@ And I am obsessed with the potential technology offers all of the above
 - [Website](https://davidrajcher.com)
 
 🤖 My preferred technologies:
+
 - Languages: Typescript & Javascript (& HTML & CSS)
 - Frontend Libraries: React
 - Frontend Frameworks: NextJS
