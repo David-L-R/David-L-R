@@ -1,4 +1,4 @@
-## 👋 Hey, I am a Software developer and instructor (and a dad)
+## 👋 Hey, I am a Software developer and an instructor
 
 💪 I have extensive experience leading both teams and projects, and well over a decade teaching and training students and staff.
 
@@ -11,10 +11,10 @@
 - [Website](https://davidrajcher.com)
 
 🤖 My preferred technologies:
-- Frontend Frameworks: React (& Next)
-- UI frameworks: Storybook
-- Languages: Typescript & Javascript
-- Design: CSS-in-JS (but CSS & Sass is cool as well)
+- Languages: Typescript & Javascript (& HTML & CSS)
+- Frontend Libraries: React
+- Frontend Frameworks: NextJS
+- More CSS: CSS-in-JS (❤️ Styled component)
 - Backend: Node & Express
 - Testing: Jest & Testing-library
 - Version control: GIT
@@ -32,8 +32,8 @@
 
 🔭 Learning Path For 2022
 
-- SQL and rational databases
+- Rational databases
 - Algorithms & Data structures (and some Python)
-- Rebuilding my personal websites using animations and SVGs!
+- Animation and SVGs manipulations
 - Docker 
 - K8S
