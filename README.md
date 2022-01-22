@@ -23,7 +23,7 @@
 - Languages: Typescript & Javascript (& HTML & CSS)
 - Frontend Libraries: React
 - Frontend Frameworks: NextJS
-- More CSS: CSS-in-JS (❤️ Styled component)
+- More CSS: CSS-in-JS (❤️ Styled components)
 - Backend: Node & Express
 - Testing: Jest & Testing-library
 - Version control: GIT
