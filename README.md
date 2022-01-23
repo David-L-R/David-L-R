@@ -1,24 +1,24 @@
 ## I am a software developer and a web instructor 
 
-### 🎖️ With an extensive experience 
+### 🎖️ Extensive experience 
 
 - Leading both teams and projects
 - Over a decade teaching and training students and staff
 
-### 🔥 With a deep passion for 
+### 🔥 Deep passion 
 
 - Learning
 - Teaching & Education
 - Helping others achieve their career goals
 - Technology and its potential to boost all of the above
 
-### ℹ️ More information about me
+### ℹ️ More info
 
 - [LinkedIn](https://www.linkedin.com/in/david-rajcher/)
 - [Articles](https://david-l-r.medium.com/)
 - [Website](https://davidrajcher.com)
 
-### 🤖 My Preferred technologies are
+### 🤖 Preferred technologies
 
 - Languages: Typescript & Javascript (& HTML & CSS)
 - Frontend Libraries: React
@@ -39,7 +39,7 @@
   <img src="https://user-images.githubusercontent.com/31222514/149814004-a3a2bf91-a257-4d1c-bdff-e1079a524359.png" width="10%" alt="GIT logo">
 </p>
 
-### 🔭 My learning path for 2022
+### 🔭 2022 learning path
 
 - Rational databases
 - Algorithms & Data structures (and some Python)
