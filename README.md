@@ -1,11 +1,11 @@
 ## I am a software developer and a web instructor 
 
-### 🎖️ I have extensive experience 
+### 🎖️ With an extensive experience 
 
 - Leading both teams and projects
 - Over a decade teaching and training students and staff
 
-### 🔥 I have a deep passion for 
+### 🔥 With a deep passion for 
 
 - Learning
 - Teaching & Education
