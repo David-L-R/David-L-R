@@ -8,9 +8,9 @@
 ### 🔥 Deep passion 
 
 - Learning
-- Teaching & Education
+- Teaching & E-ducation
 - Helping others achieve their career goals
-- Technology and its potential to boost all of the above
+- Technology and its power to revolutionise education
 
 ### ℹ️ More info
 
