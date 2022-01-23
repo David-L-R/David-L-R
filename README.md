@@ -1,4 +1,4 @@
-## I am a software developer and a web instructor 
+## A full-stack software developer and a web instructor 
 
 ### 🎖️ Extensive experience 
 
