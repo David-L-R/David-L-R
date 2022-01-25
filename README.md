@@ -1,4 +1,4 @@
-## A full-stack software developer and a web instructor 
+Software Developer & Web Instructor 
 
 ### 🎖️ Extensive experience 
 
