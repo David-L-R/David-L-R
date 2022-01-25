@@ -1,4 +1,4 @@
-# Software Developer & Web Instructor 
+# Web Developer & Instructor 
 
 ### 🎖️ Extensive experience 
 
