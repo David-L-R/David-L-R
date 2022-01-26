@@ -1,4 +1,4 @@
- <img src="https://user-images.githubusercontent.com/31222514/151182722-0ea6238e-411a-467b-abdf-5e24781515cd.png" width="0" alt="profile picture">
+ <img src="https://user-images.githubusercontent.com/31222514/151182722-0ea6238e-411a-467b-abdf-5e24781515cd.png" width="0" height="0" alt="profile picture">
 
 # Web Developer & Instructor 
 
