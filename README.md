@@ -5,7 +5,7 @@
 ### 🎖️ Extensive experience 
 
 - Leading both teams and projects
-- Over a decade teaching and training students and staff
+- Teaching and training students and staff
 
 ### 🔥 Deep passion 
 
