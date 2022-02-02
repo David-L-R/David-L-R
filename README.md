@@ -4,8 +4,9 @@
 
 ### 🎖️ Extensive experience 
 
-- Leading both teams and projects
-- Teaching and training students and staff
+- Recruting, training, and leading teams
+- Planning and overseeing long term projects
+- Teaching and mentoring students
 
 ### 🔥 Deep passion 
 
