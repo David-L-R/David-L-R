@@ -40,9 +40,10 @@
   <img src="https://user-images.githubusercontent.com/31222514/149943049-95f0909a-9c2b-4fae-bd04-647d531dd10d.png" width="10%" alt="NODE logo">
   <img src="https://user-images.githubusercontent.com/31222514/149814008-745c7736-7881-41b9-bc0b-3b9a7c9ab087.png" width="10%" alt="Jest logo">
   <img src="https://user-images.githubusercontent.com/31222514/149814004-a3a2bf91-a257-4d1c-bdff-e1079a524359.png" width="10%" alt="GIT logo">
-  <img src="https://user-images.githubusercontent.com/31222514/155521078-3f0715f0-9df5-488f-840c-e7873939c1c9.jpeg" width="10%" alt="Postgres logo">
- 
- ![logo-mongodb-png-mongodb-logo-png-400](https://user-images.githubusercontent.com/31222514/155521092-8b9f303b-6f1e-406c-9ba6-4a00068ef73a.png)
+  <img src="" width="10%" alt="Postgres logo">
+   <img src="https://user-images.githubusercontent.com/31222514/155521092-8b9f303b-6f1e-406c-9ba6-4a00068ef73a.png" width="10%" alt="MongoDB logo">
+
+![postgres-icon-7](https://user-images.githubusercontent.com/31222514/155521312-96e008ba-1d5e-409f-aaec-ca229ca275c6.jpeg)
 
  
 </p>
