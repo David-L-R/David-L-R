@@ -1,4 +1,7 @@
- <img src="https://user-images.githubusercontent.com/31222514/151182722-0ea6238e-411a-467b-abdf-5e24781515cd.png" width="0" height="0" alt="profile picture">
+<div style="height: 200px; width: 200px; overflow: hidden">
+<img src="https://user-images.githubusercontent.com/31222514/160361964-b424ef3b-9f45-4d2f-9e72-adfd4ecfba62.JPG">
+ </div>
+
 
 # Web Developer & Instructor 
 
