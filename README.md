@@ -1,6 +1,6 @@
-<p>
+<div>
     [profile image](https://user-images.githubusercontent.com/31222514/160362534-5ce08a33-efc7-4c07-91cf-10ffc4a857e0.jpg)
-</p>
+</div>
 
 # Web Developer & Instructor 
 
