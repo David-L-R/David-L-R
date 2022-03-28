@@ -1,5 +1,5 @@
-<div style="height: 200px; width: 200px; overflow: hidden">
-<img src="https://user-images.githubusercontent.com/31222514/160361964-b424ef3b-9f45-4d2f-9e72-adfd4ecfba62.JPG">
+<div style="height: 200px; width: 200px; overflow: hidden;">
+<img src="https://user-images.githubusercontent.com/31222514/160361964-b424ef3b-9f45-4d2f-9e72-adfd4ecfba62.JPG" width="200px" height="200px">
  </div>
 
 
