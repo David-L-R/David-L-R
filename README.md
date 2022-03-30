@@ -50,8 +50,9 @@
 
 ### 🔭 2022 learning path
 
-- Rational databases
-- Algorithms & Data structures (and some Python)
-- Animation and SVGs manipulations
-- Docker 
-- K8S
+- Backend: Rational databases
+- Frontend: Animation and SVGs manipulations
+- CS: Data structures
+- Backend: Docker & K8S
+
+
