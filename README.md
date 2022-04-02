@@ -43,15 +43,7 @@
   <img src="https://user-images.githubusercontent.com/31222514/149814008-745c7736-7881-41b9-bc0b-3b9a7c9ab087.png" width="8%" alt="Jest logo">
   <img src="https://user-images.githubusercontent.com/31222514/149814004-a3a2bf91-a257-4d1c-bdff-e1079a524359.png" width="8%" alt="GIT logo">
   <img src="https://user-images.githubusercontent.com/31222514/155521312-96e008ba-1d5e-409f-aaec-ca229ca275c6.jpeg" width="8%" alt="Postgres logo">
-   <img src="https://user-images.githubusercontent.com/31222514/155521092-8b9f303b-6f1e-406c-9ba6-4a00068ef73a.png" width="8%" alt="MongoDB logo">
-    
-    
-   <div style="width: 100px; height: 100px; border: 1px solid blue;"> 
-       <p>React</p>
-       <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="50%" alt="React logo">  
-   </div>
-
- 
+  <img src="https://user-images.githubusercontent.com/31222514/155521092-8b9f303b-6f1e-406c-9ba6-4a00068ef73a.png" width="8%" alt="MongoDB logo">
 </p>
 
 ### 🔭 2022 learning path
