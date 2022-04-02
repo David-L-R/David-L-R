@@ -46,7 +46,7 @@
    <img src="https://user-images.githubusercontent.com/31222514/155521092-8b9f303b-6f1e-406c-9ba6-4a00068ef73a.png" width="8%" alt="MongoDB logo">
     
     
-   <div style="width: 100px;"> 
+   <div style="width: 100px; height: 100px; border: 1px solid blue;"> 
        <p>React</p>
        <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="50%" alt="React logo">  
    </div>
