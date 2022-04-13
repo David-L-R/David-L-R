@@ -10,10 +10,7 @@
 
 ### 🔥 Deep passion 
 
-- Learning
-- Teaching & E-ducation
-- Helping others achieve their career goals
-- Technology and its power to revolutionise education
+- Teaching & helping others achieve their career goals
 
 ### ℹ️ More info
 
