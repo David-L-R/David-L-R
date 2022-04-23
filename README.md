@@ -20,10 +20,10 @@
 
 ### 🤖 Preferred technologies
 
-- Languages: Typescript & Javascript (& HTML & CSS)
+- Languages: Typescript & Javascript
+- HTML & CSS (❤️ Styled components)
 - Frontend Libraries: React
 - Frontend Frameworks: NextJS
-- More CSS: CSS-in-JS (❤️ Styled components)
 - Backend: Node & Express
 - Testing: Jest & Testing-library
 - Version control: GIT
