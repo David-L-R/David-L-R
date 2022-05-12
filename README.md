@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/31222514/168108292-72f96324-55bd-4bc6-8f0c-ebe191ba7b1c.jpg" width="0" height="0" />
-
 # Web Developer & Instructor 
 
 ### 🎖️ Extensive experience 
