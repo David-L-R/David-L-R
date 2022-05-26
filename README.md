@@ -46,8 +46,5 @@
 ### 🔭 2022 learning path
 
 - Backend: Rational databases
-- Frontend: Animation and SVGs manipulations
-- CS: Data structures
-- Backend: Docker & K8S
-
-
+- Testing Javascript
+- Dive into more vanilla Javascript - controling the DOM, events, promises..
