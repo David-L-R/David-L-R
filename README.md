@@ -45,6 +45,6 @@
 
 ### 🔭 2022 learning path
 
+- Deepr dive into Controling the DOM ✅
+- Testing Javascript (both Node and React) 🚧 (50% done)
 - Backend: Rational databases
-- Testing Javascript
-- Dive into more vanilla Javascript - controling the DOM, events, promises..
