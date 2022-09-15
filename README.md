@@ -10,7 +10,9 @@
 
 ### 🔥 Deep passion 
 
-- Teaching & helping others achieve their career goals
+- Teaching and mentoring
+- Helping others achieve their career goals
+- Technology and technical challenges
 
 ### ℹ️ More info
 
