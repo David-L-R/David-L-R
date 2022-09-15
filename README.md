@@ -20,7 +20,7 @@
 - [Articles](https://david-l-r.medium.com/)
 - [Website](https://davidrajcher.com)
 
-### 🤖 Preferred technologies
+### Tech Stack
 
 - Languages: Typescript & Javascript
 - HTML & CSS (❤️ Styled components)
@@ -30,6 +30,7 @@
 - Testing: Jest & Testing-library
 - Version control: GIT
 - Database: MongoDB & Postgres
+- Some PHP and Python...
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="8%" alt="React logo">
