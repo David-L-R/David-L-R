@@ -5,7 +5,7 @@
 - A Programming Mentor
 - An Education Specialist
 - A Software Developer
-- Ex-Principle of a school franchise
+- Ex-Principal of a school franchise
 
 ## 🎖️ Extensive Experience 
 
