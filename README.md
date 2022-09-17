@@ -13,19 +13,19 @@
 - Recruting, training, and leading teams
 - Planning and overseeing long term projects
 
-### 🔥 Deep Passion 
+## 🔥 Deep Passion 
 
 - Teaching and mentoring
 - Helping others achieve their career goals
 - Technology and technical challenges
 
-### ℹ️ More Info
+## ℹ️ More Info
 
 - [LinkedIn](https://www.linkedin.com/in/david-rajcher/)
 - [Articles](https://david-l-r.medium.com/)
 - [Website](https://davidrajcher.com)
 
-### Tech Stack
+## Tech Stack
 
 - Languages: Typescript & Javascript
 - HTML & CSS (❤️ Styled components)
@@ -51,7 +51,7 @@
   <img src="https://user-images.githubusercontent.com/31222514/155521092-8b9f303b-6f1e-406c-9ba6-4a00068ef73a.png" width="8%" alt="MongoDB logo">
 </p>
 
-### 🔭 2022 Learning Path
+## 🔭 2022 Learning Path
 
 - Deepr dive into Controling the DOM ✅
 - Testing Javascript (both Node and React) 🚧 (50% done)
