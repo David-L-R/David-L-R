@@ -25,7 +25,13 @@
 - [Articles](https://david-l-r.medium.com/)
 - [Website](https://davidrajcher.com)
 
-## Tech Stack
+## 🥑 Advocate Of
+
+- Growth mindset https://lnkd.in/e9-MGwrE
+- Overcoming fear https://lnkd.in/egd8Pib3
+- Taking risks https://lnkd.in/eysiGXhE
+
+## 🤖 Tech Stack
 
 - Languages: Typescript & Javascript
 - HTML & CSS (❤️ Styled components)
