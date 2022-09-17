@@ -12,6 +12,7 @@
 - Teaching and mentoring students
 - Recruting, training, and leading teams
 - Planning and overseeing long term projects
+- Taking part and overseeing software development 
 
 ## 🔥 Deep Passion 
 
