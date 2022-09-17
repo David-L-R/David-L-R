@@ -1,6 +1,13 @@
 <img width="1014" alt="6" src="https://user-images.githubusercontent.com/31222514/189344401-d4a72c16-6214-4a74-9675-1df71ca539bd.png">
 
-# Programming Mentor & Education Specialist | Software Developer
+# 👋 Hi, I am David
+
+### I am 
+
+- A Programming Mentor
+- An Education Specialist
+- A Software Developer
+- Ex-Principle of a school franchise
 
 ### 🎖️ Extensive experience 
 
