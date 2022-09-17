@@ -2,26 +2,26 @@
 
 # 👋 Hi, I am David
 
-### I am 
+### 🛡️ My Profession
 
 - A Programming Mentor
 - An Education Specialist
 - A Software Developer
 - Ex-Principle of a school franchise
 
-### 🎖️ Extensive experience 
+### 🎖️ Extensive Experience 
 
 - Teaching and mentoring students
 - Recruting, training, and leading teams
 - Planning and overseeing long term projects
 
-### 🔥 Deep passion 
+### 🔥 Deep Passion 
 
 - Teaching and mentoring
 - Helping others achieve their career goals
 - Technology and technical challenges
 
-### ℹ️ More info
+### ℹ️ More Info
 
 - [LinkedIn](https://www.linkedin.com/in/david-rajcher/)
 - [Articles](https://david-l-r.medium.com/)
@@ -53,7 +53,7 @@
   <img src="https://user-images.githubusercontent.com/31222514/155521092-8b9f303b-6f1e-406c-9ba6-4a00068ef73a.png" width="8%" alt="MongoDB logo">
 </p>
 
-### 🔭 2022 learning path
+### 🔭 2022 Learning Path
 
 - Deepr dive into Controling the DOM ✅
 - Testing Javascript (both Node and React) 🚧 (50% done)
