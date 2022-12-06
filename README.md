@@ -1,11 +1,10 @@
-<img width="1014" alt="6" src="https://user-images.githubusercontent.com/31222514/189344401-d4a72c16-6214-4a74-9675-1df71ca539bd.png">
-
 ## 🛡️ What I Do
 
-- A Programming Mentor
-- An Education Specialist
-- A Software Developer
-- Ex-Principal of a school franchise
+I am the Web Academic Lead & Pedagogy Expert in Masterschool.In Masterschool, we build success-based schools for a variety of technical domains. 
+
+- Responsible for the content of all web development courses, basic and advanced.
+- Training mentors and instructors, and creating teaching guidelines.
+- Mentoring hundreds of students in the intensive process of becoming full-stack web developers.
 
 ## 🎖️ Extensive Experience 
 
