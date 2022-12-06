@@ -43,8 +43,6 @@ I am the Web Academic Lead & Pedagogy Expert in Masterschool.In Masterschool, we
 - Database: MongoDB & Postgres
 - Some PHP and Python...
 
-![react logo](https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png)
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="8%" alt="React logo">
   <img src="https://user-images.githubusercontent.com/31222514/160580699-d782fd3f-4e09-4d92-895c-d9867302e145.svg" width="8%" alt="Redux logo">
