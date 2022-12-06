@@ -6,6 +6,8 @@ I am the Web Academic Lead & Pedagogy Expert in Masterschool.In Masterschool, we
 - Training mentors and instructors, and creating teaching guidelines.
 - Mentoring hundreds of students in the intensive process of becoming full-stack web developers.
 
+---
+
 ## 🎖️ Extensive Experience 
 
 - Teaching and mentoring students
