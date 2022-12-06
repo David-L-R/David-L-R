@@ -1,4 +1,4 @@
-## 🛡️ What I Do
+## 🛡️ What I Do ⚔️
 
 I am the Web Academic Lead & Pedagogy Expert in Masterschool.In Masterschool, we build success-based schools for a variety of technical domains. 
 
