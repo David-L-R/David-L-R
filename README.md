@@ -1,6 +1,6 @@
 ## 🛡️ What I Do
 
-I am the head of the web domain @Masterschool. We are building the biggest success-based school for a variety of technical domains. 
+I am the head of the web domain [@Masterschool](https://www.masterschool.com/). We are building the biggest success-based school for a variety of technical domains. 
 
 - Responsible for the content of all web development courses, basic and advanced.
 - Training mentors and instructors, and creating teaching guidelines.
