@@ -56,9 +56,3 @@ I am the head of the web domain [@Masterschool](https://www.masterschool.com/). 
   <img src="https://user-images.githubusercontent.com/31222514/155521312-96e008ba-1d5e-409f-aaec-ca229ca275c6.jpeg" width="8%" alt="Postgres logo">
   <img src="https://user-images.githubusercontent.com/31222514/155521092-8b9f303b-6f1e-406c-9ba6-4a00068ef73a.png" width="8%" alt="MongoDB logo">
 </p>
-
-## 🔭 2022 Learning Path
-
-- Deepr dive into Controling the DOM ✅
-- Testing Javascript (both Node and React) 🚧 (50% done)
-- Backend: Rational databases
