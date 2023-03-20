@@ -41,7 +41,7 @@ I am the head of the web domain [@Masterschool](https://www.masterschool.com/). 
 - Testing: Jest & Testing-library
 - Version control: GIT
 - Database: MongoDB & Postgres
-- Some PHP and Python...
+- Some PHP, Java, C# and Python...
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="8%" alt="React logo">
