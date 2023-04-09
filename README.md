@@ -1,5 +1,3 @@
-[LinkedIn](https://www.linkedin.com/in/david-rajcher/) [Articles](https://david-l-r.medium.com/) [Website](https://davidrajcher.com)
-
 ## ⭐️⭐️⭐️ Job Opportunity ⭐️⭐️⭐️
 
 Are you a talented web developer with a passion for mentoring young professional in their career-change path? contact me (david.rajcher@masterschool.com). We offer part-time (5 hours weekly) position along side your "day job".
