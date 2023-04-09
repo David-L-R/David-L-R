@@ -2,6 +2,16 @@
 
 Are you a talented web developer with a passion for mentoring young professional in their career-change path? contact me (david.rajcher@masterschool.com). We offer part-time (5 hours weekly) position along side your "day job".
 
+## 📢📢📢 Startups Listen Up 📢📢📢
+
+I have an awesome proposal for you! Do you have too many projects in the backlog that you never seem to have the time to complete?
+
+At Masterschool, we launched our pilot program of project-based unpaid internships. We supply you with a senior developer and a team of 2-5 developers.
+
+We will help you break down your business needs into technical terms so the developers can tackle them easily!
+
+If it sounds interesting to you, comment in this thread or contact me personally.
+
 ----
 
 ## 🔨 What I Do
