@@ -2,34 +2,30 @@
 
 I am the head of the web domain [@Masterschool](https://www.masterschool.com/). We are building the biggest success-based school for a variety of technical domains. 
 
-- Responsible for the content of all web development courses, basic and advanced.
-- Training mentors and instructors, and creating teaching guidelines.
-- Mentoring hundreds of students in the intensive process of becoming full-stack web developers.
+I am responsible for curating the content of all web development courses, basic and advanced, training mentors and instructors and creating teaching guidelines, and mentoring hundreds of students in the intensive process of becoming full-stack web developers.
 
-## 🎖️ Extensive Experience 
+### Job Opportunity 
+Are you a talented web developer with passion for mentoring young professional in their career-change path? contact me (david.rajcher@masterschool.com). We offer part-time (5 hours weekly) position along side your "day job".
 
-- Teaching and mentoring students
-- Recruting, training, and leading teams
-- Planning and overseeing long term projects
-- Taking part and overseeing software development 
+## 🔥 Who am I
 
-## 🔥 Deep Passion 
+I am a senior developer with over a decade of teaching experience and years of experience running schools and managing hundreds of teacher.
 
-- Teaching and mentoring
-- Helping others achieve their career goals
-- Technology and technical challenges
+I discovered my passion for teaching at the age of 7, when I sat down to teach my teddy-bears the things I've learned in school, and since that the passion only grew stronger.
 
-## ℹ️ More Info
-
-- [LinkedIn](https://www.linkedin.com/in/david-rajcher/)
-- [Articles](https://david-l-r.medium.com/)
-- [Website](https://davidrajcher.com)
+I believe in nurturing learning skills and internal motivation, in order to create independent learners who are passioanate about learning and growing.
 
 ## 🥑 Advocate Of
 
 - Growth mindset https://lnkd.in/e9-MGwrE
 - Overcoming fear https://lnkd.in/egd8Pib3
 - Taking risks https://lnkd.in/eysiGXhE
+
+## ℹ️ More Info
+
+- [LinkedIn](https://www.linkedin.com/in/david-rajcher/)
+- [Articles](https://david-l-r.medium.com/)
+- [Website](https://davidrajcher.com)
 
 ## 🤖 Currently Teaching
 
