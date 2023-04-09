@@ -1,11 +1,14 @@
+## ⭐️⭐️⭐️ Job Opportunity ⭐️⭐️⭐️
+
+Are you a talented web developer with passion for mentoring young professional in their career-change path? contact me (david.rajcher@masterschool.com). We offer part-time (5 hours weekly) position along side your "day job".
+
+----
+
 ## 🔨 What I Do
 
 I am the head of the web domain [@Masterschool](https://www.masterschool.com/). We are building the biggest success-based school for a variety of technical domains. 
 
 I am responsible for curating the content of all web development courses, basic and advanced, training mentors and instructors and creating teaching guidelines, and mentoring hundreds of students in the intensive process of becoming full-stack web developers.
-
-### Job Opportunity 
-Are you a talented web developer with passion for mentoring young professional in their career-change path? contact me (david.rajcher@masterschool.com). We offer part-time (5 hours weekly) position along side your "day job".
 
 ## 🔥 Who am I
 
