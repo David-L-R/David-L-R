@@ -35,7 +35,7 @@ I am the head of the web domain [@Masterschool](https://www.masterschool.com/). 
 
 - Languages: Typescript & Javascript
 - HTML & CSS (❤️ Styled components)
-- Frontend Libraries: React
+- Frontend Libraries: React, Redux
 - Frontend Frameworks: NextJS
 - Backend: Node & Express
 - Testing: Jest & Testing-library
