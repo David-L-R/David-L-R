@@ -1,4 +1,4 @@
-## 🛡️ What I Do
+## 🔨 What I Do
 
 I am the head of the web domain [@Masterschool](https://www.masterschool.com/). We are building the biggest success-based school for a variety of technical domains. 
 
