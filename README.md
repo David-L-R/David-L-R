@@ -1,6 +1,6 @@
 ## ⭐️⭐️⭐️ Job Opportunity ⭐️⭐️⭐️
 
-Are you a talented web developer with passion for mentoring young professional in their career-change path? contact me (david.rajcher@masterschool.com). We offer part-time (5 hours weekly) position along side your "day job".
+Are you a talented web developer with a passion for mentoring young professional in their career-change path? contact me (david.rajcher@masterschool.com). We offer part-time (5 hours weekly) position along side your "day job".
 
 ----
 
