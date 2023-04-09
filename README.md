@@ -1,56 +1,39 @@
+[LinkedIn](https://www.linkedin.com/in/david-rajcher/) [Articles](https://david-l-r.medium.com/) [Website](https://davidrajcher.com)
+
 ## ⭐️⭐️⭐️ Job Opportunity ⭐️⭐️⭐️
 
 Are you a talented web developer with a passion for mentoring young professional in their career-change path? contact me (david.rajcher@masterschool.com). We offer part-time (5 hours weekly) position along side your "day job".
 
 ## 📢📢📢 Startups Listen Up 📢📢📢
 
-I have an awesome proposal for you! Do you have too many projects in the backlog that you never seem to have the time to complete?
+Do you have too many projects in the backlog that you never seem to have the time to complete? At Masterschool, we launched our pilot program of project-based unpaid internships. We supply you with a senior developer and a team of 2-5 developers.
 
-At Masterschool, we launched our pilot program of project-based unpaid internships. We supply you with a senior developer and a team of 2-5 developers.
-
-We will help you break down your business needs into technical terms so the developers can tackle them easily!
-
-If it sounds interesting to you, comment in this thread or contact me personally.
+We will help you break down your business needs into technical terms so the developers can tackle them easily! If it sounds interesting to you, comment in this thread or contact me personally.
 
 ----
 
 ## 🔨 What I Do
 
-I am the head of the web domain [@Masterschool](https://www.masterschool.com/). We are building the biggest success-based school for a variety of technical domains. 
+I am the head of the web domain [@Masterschool](https://www.masterschool.com/). We are building the biggest success-based school for a variety of technical domains. I am a senior developer with over a decade of teaching experience and years of experience running schools and managing hundreds of teacher.
+
 
 I am responsible for curating the content of all web development courses, basic and advanced, training mentors and instructors and creating teaching guidelines, and mentoring hundreds of students in the intensive process of becoming full-stack web developers.
 
 ## 🔥 Who am I
 
-I am a senior developer with over a decade of teaching experience and years of experience running schools and managing hundreds of teacher.
-
 I discovered my passion for teaching at the age of 7, when I sat down to teach my teddy-bears the things I've learned in school, and since that the passion only grew stronger.
 
 I believe in nurturing learning skills and internal motivation, in order to create independent learners who are passioanate about learning and growing.
 
-## 🥑 Advocate Of
+### 🥑 Advocate Of
 
 - Growth mindset https://lnkd.in/e9-MGwrE
 - Overcoming fear https://lnkd.in/egd8Pib3
 - Taking risks https://lnkd.in/eysiGXhE
 
-## ℹ️ More Info
-
-- [LinkedIn](https://www.linkedin.com/in/david-rajcher/)
-- [Articles](https://david-l-r.medium.com/)
-- [Website](https://davidrajcher.com)
-
 ## 🤖 Currently Teaching
 
-- Languages: Typescript & Javascript
-- HTML & CSS (❤️ Styled components)
-- Frontend Libraries: React, Redux
-- Frontend Frameworks: NextJS
-- Backend: Node & Express
-- Testing: Jest & Testing-library
-- Version control: GIT
-- Database: MongoDB & Postgres
-- Other: Microservices with Kubernetes and Docker
+Typescript & Javascript | HTML & CSS (❤️ Styled components) | React & NextJS | Redux | Node & Express | Jest & Testing-library | Git | MongoDB & Postgres | Kubernetes | Docker | NATS
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="7%" alt="React logo">
