@@ -1,4 +1,4 @@
-## Who am I 🔥
+## 🔥 Who am I 
 
 I discovered my passion for teaching at the age of 7, when I sat down to teach my teddy-bears the things I've learned in school, and since then the passion only grew stronger.
 
@@ -8,14 +8,14 @@ I believe in nurturing learning skills and internal motivation, in order to crea
 - Overcoming fear https://lnkd.in/egd8Pib3
 - Taking risks https://lnkd.in/eysiGXhE
 
-## What I Do 🔨
+## 🔨 What I Do
 
 I am the head of the web domain [@Masterschool](https://www.masterschool.com/). We are building the biggest success-based school for a variety of technical domains. I am a senior developer with over a decade of teaching experience and years of experience running schools and managing hundreds of teacher.
 
 
 I am responsible for curating the content of all web development courses, basic and advanced, training mentors and instructors and creating teaching guidelines, and mentoring hundreds of students in the intensive process of becoming full-stack web developers.
 
-## Currently Teaching 🎓
+## 🎓 Currently Teaching 
 
 Typescript & Javascript | HTML & CSS (❤️ Styled components) | React & NextJS | Redux | Node & Express | Jest & Testing-library | Git | MongoDB & Postgres | Kubernetes | Docker | NATS
 
