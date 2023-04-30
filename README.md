@@ -15,7 +15,7 @@ I am the head of the web domain [@Masterschool](https://www.masterschool.com/). 
 
 I am responsible for curating the content of all web development courses, basic and advanced, training mentors and instructors and creating teaching guidelines, and mentoring hundreds of students in the intensive process of becoming full-stack web developers.
 
-## 🎓 Currently Teaching 
+## 🎓 Teaching 
 
 Typescript & Javascript | HTML & CSS (❤️ Styled components) | React & NextJS | Redux | Node & Express | Jest & Testing-library | Git | MongoDB & Postgres | Kubernetes | Docker | NATS
 
