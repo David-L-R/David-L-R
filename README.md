@@ -17,7 +17,7 @@ I am responsible for curating the content of all web development courses, basic 
 
 ## 🎓 Teaching 
 
-Typescript & Javascript | HTML & CSS (❤️ Styled components) | React & NextJS | Redux | Node & Express | Jest & Testing-library | Git | MongoDB & Postgres | Kubernetes | Docker | NATS
+Typescript & Javascript | HTML & CSS (Sass + Styled components) | React & NextJS | Redux | Node & Express | Jest & Testing-library | Git | MongoDB & Postgres | Kubernetes | Docker | NATS
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="7%" alt="React logo">
