@@ -1,9 +1,10 @@
 ## 🔥 Who
 
-I discovered my passion for teaching at the age of 7, when I sat down to teach my stuffed-animals the things I've learned in school, and since then the passion only grew stronger.
+A technology-education specialist and software developer with extensive experience leading both teams and projects and over a decade of teaching students and training staff.
 
-I believe in nurturing learning skills and internal motivation, in order to create independent learners who are passioanate about learning and growing.
+At the age of seven, I discovered an interest when I was teaching my stuffed animals the things I have learned in school.  That early fascination has since expanded into a relentless passion that's only grown over time.
 
+I firmly believe in cultivating a sense of intellectual curiosity and intrinsic motivation in learners. My objective is to foster independence in learning, thereby creating a breed of enthusiastic scholars who are passionate about their own educational growth and development.
 - Growth mindset https://lnkd.in/e9-MGwrE
 - Overcoming fear https://lnkd.in/egd8Pib3
 - Taking risks https://lnkd.in/eysiGXhE
