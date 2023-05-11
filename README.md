@@ -1,6 +1,6 @@
 ## 🔥 Who
 
-I discovered my passion for teaching at the age of 7, when I sat down to teach my teddy-bears the things I've learned in school, and since then the passion only grew stronger.
+I discovered my passion for teaching at the age of 7, when I sat down to teach my stuffed-animals the things I've learned in school, and since then the passion only grew stronger.
 
 I believe in nurturing learning skills and internal motivation, in order to create independent learners who are passioanate about learning and growing.
 
