@@ -1,6 +1,8 @@
-## 🔥 Who
+## Summary
 
 A technology-education specialist and software developer with extensive experience leading both teams and projects and over a decade of teaching students and training staff.
+
+## 🔥 My Passion
 
 At the age of seven, I discovered an interest when I was teaching my stuffed animals the things I have learned in school.  That early fascination has since expanded into a relentless passion that's only grown over time.
 
