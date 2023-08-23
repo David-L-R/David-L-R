@@ -19,13 +19,14 @@ I am responsible for curating the content of all web development courses, basic 
 
 ## 🎓 Teaching 
 
-Typescript & Javascript | HTML & CSS (Sass + Styled components) | React & NextJS | Redux | Node & Express | Jest & Testing-library | Git | MongoDB & Postgres | Kubernetes | Docker | NATS
+Typescript & Javascript | JAVA | HTML & CSS (Sass + Styled components) | React & NextJS | Redux | Node & Express | Jest & Testing-library | Git | MongoDB & Postgres | Kubernetes | Docker | Kafka | NATS | AWS | and more...
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="10%" alt="React logo">
   <img src="https://user-images.githubusercontent.com/31222514/160580699-d782fd3f-4e09-4d92-895c-d9867302e145.svg" width="10%" alt="Redux logo">
   <img src="https://user-images.githubusercontent.com/31222514/149813300-65804694-d3ea-4e31-955d-dbc47229a82d.png" width="10%" alt="Typescript logo">
   <img src="https://user-images.githubusercontent.com/31222514/149812547-405716a0-b974-4da4-b749-f2b4a8adc1d8.png" width="10%" alt="Javascript logo">
+  <img width="10%" alt="java" src="https://github.com/David-L-R/David-L-R/assets/31222514/9de01d56-9bc6-4ef9-b2b9-77742d1b5154">
   <img src="https://user-images.githubusercontent.com/31222514/149813532-e214a55c-9b91-4b71-bb17-0dcf18903f7a.png" width="10%" alt="CSS logo">
   <img src="https://user-images.githubusercontent.com/31222514/149814154-3de042e2-bccf-4f0e-8d0e-98a2dbcae7c0.png" width="10%" alt="HTML logo">
   <img src="https://user-images.githubusercontent.com/31222514/149943049-95f0909a-9c2b-4fae-bd04-647d531dd10d.png" width="10%" alt="NODE logo">
@@ -35,10 +36,8 @@ Typescript & Javascript | HTML & CSS (Sass + Styled components) | React & NextJS
   <img src="https://user-images.githubusercontent.com/31222514/155521092-8b9f303b-6f1e-406c-9ba6-4a00068ef73a.png" width="10%" alt="MongoDB logo">
   <img src="https://user-images.githubusercontent.com/31222514/230756716-a5d33de4-47c4-4c8e-89b3-0bff3cb7db0e.svg" width="10%" alt="kubernetes logo">
     <img src="https://user-images.githubusercontent.com/31222514/230756769-b4761955-1029-4847-9534-b1241de02621.png" width="10%" alt="docker-logo">
-  
 <img width="10%" alt="kafka" src="https://github.com/David-L-R/David-L-R/assets/31222514/e56030dc-5f8a-48f4-a6db-46bf19c174b7">
 <img width="10%" alt="aws" src="https://github.com/David-L-R/David-L-R/assets/31222514/de28df09-291f-4915-84b8-f408a57414fa">
-<img width="10%" alt="java" src="https://github.com/David-L-R/David-L-R/assets/31222514/9de01d56-9bc6-4ef9-b2b9-77742d1b5154">
 
 </p>
 
