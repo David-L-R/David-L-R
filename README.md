@@ -19,7 +19,7 @@ I am responsible for curating the content of all web development courses, basic 
 
 ## 🎓 Teaching 
 
-- Languages: Typescript, Javascript, JAVA
+- Languages: Typescript, Javascript, Java, Python
 - Frontend technologies: HTML, CSS (Sass + Styled components), React & NextJS, Redux
 - Backend technologies: Node & Express, SpringBoot
 - Testing: Jest, Testing-library, Cypress, JUnit
