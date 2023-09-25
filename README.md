@@ -14,6 +14,8 @@ This training includes:
 
 ## Our E-learning Platform
 
+<img width="50%" src="https://github.com/David-L-R/David-L-R/assets/31222514/6e4d9d21-1fce-4084-9feb-80c838898a54" />
+
 We have partnered with Udemy-Business to curate the best learning paths:
 
 ### Software Engineering
