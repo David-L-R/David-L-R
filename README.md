@@ -1,6 +1,6 @@
 <img src="https://github.com/David-L-R/David-L-R/assets/31222514/2b780875-d611-4915-a725-59a1722827a7" width="50%"/>
 
-# Webeet.io
+# [Webeet.io](webeet.io/student)
 
 We offer a one-of-a-kind advanced training that aims to improve the technical skills of juniors and help them land their first job. 
 
