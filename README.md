@@ -45,26 +45,16 @@ I am responsible for curating the content of all web development courses, basic 
     <img src="https://user-images.githubusercontent.com/31222514/230756769-b4761955-1029-4847-9534-b1241de02621.png" width="10%" alt="docker-logo">
 <img width="10%" alt="kafka" src="https://github.com/David-L-R/David-L-R/assets/31222514/e56030dc-5f8a-48f4-a6db-46bf19c174b7">
 <img width="10%" alt="aws" src="https://github.com/David-L-R/David-L-R/assets/31222514/de28df09-291f-4915-84b8-f408a57414fa">
-
+<img width="10%" alt="angular" src="https://github.com/David-L-R/David-L-R/assets/31222514/ad7ac01c-a67a-4478-837a-4b01bd67e1f2">
+<img width="10%" alt="azure" src="https://github.com/David-L-R/David-L-R/assets/31222514/454fa070-1030-4f73-8b72-4871f1b9707c">
+<img width="10%" alt="gcp" src="https://github.com/David-L-R/David-L-R/assets/31222514/66333c97-1cc9-4960-9517-d05d9aa00004">
+<img width="10%" alt="react-native" src="https://github.com/David-L-R/David-L-R/assets/31222514/db68121c-7533-4340-99e0-a8617d74fbca">
+<img width="10%" alt="svelte" src="https://github.com/David-L-R/David-L-R/assets/31222514/61ab85a0-2950-44a8-91af-e4b51a3d1f8c">
+<img width="10%" alt="kotlin" src="https://github.com/David-L-R/David-L-R/assets/31222514/a56c7585-2360-419a-9a69-47f684aedeb8">
+<img width="10%" alt="angular" src="https://github.com/David-L-R/David-L-R/assets/31222514/94dbc553-7b54-4cd4-a95e-3bbb9caaadaf">
+<img width="10%" alt="angular" src="">
+<img width="10%" alt="angular" src="">
 </p>
-
-![angular](https://github.com/David-L-R/David-L-R/assets/31222514/ad7ac01c-a67a-4478-837a-4b01bd67e1f2)
-
-![azure](https://github.com/David-L-R/David-L-R/assets/31222514/454fa070-1030-4f73-8b72-4871f1b9707c)
-
-
-![gcp](https://github.com/David-L-R/David-L-R/assets/31222514/66333c97-1cc9-4960-9517-d05d9aa00004)
-
-
-![react-native](https://github.com/David-L-R/David-L-R/assets/31222514/db68121c-7533-4340-99e0-a8617d74fbca)
-
-
-![svelte](https://github.com/David-L-R/David-L-R/assets/31222514/61ab85a0-2950-44a8-91af-e4b51a3d1f8c)
-
-
-![kotlin](https://github.com/David-L-R/David-L-R/assets/31222514/a56c7585-2360-419a-9a69-47f684aedeb8)
-
-![swift](https://github.com/David-L-R/David-L-R/assets/31222514/94dbc553-7b54-4cd4-a95e-3bbb9caaadaf)
 
 
 
