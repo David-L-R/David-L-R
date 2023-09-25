@@ -1,4 +1,4 @@
-<img src="https://github.com/David-L-R/David-L-R/assets/31222514/87c634a2-f3ad-4ab9-a443-5f4a21ddb434" width="50%"/>
+<img src="https://github.com/David-L-R/David-L-R/assets/31222514/87c634a2-f3ad-4ab9-a443-5f4a21ddb434" width="100%"/>
 
 # [Webeet.io](https://www.webeet.io/student)
 
