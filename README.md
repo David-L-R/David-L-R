@@ -71,4 +71,5 @@ We have partnered with Udemy-Business to curate the best learning paths:
 2. Azure (Microsoft) certificates
 3. GCP (Google) certificates
 
-## Want to join us? Apply on webeet.io/student
+## Want to join us? Apply on:
+<a href="https://www.webeet.io/student" target="_blank">webeet.io</a>
