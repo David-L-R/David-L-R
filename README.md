@@ -48,4 +48,25 @@ I am responsible for curating the content of all web development courses, basic 
 
 </p>
 
+![angular](https://github.com/David-L-R/David-L-R/assets/31222514/ad7ac01c-a67a-4478-837a-4b01bd67e1f2)
+
+![azure](https://github.com/David-L-R/David-L-R/assets/31222514/454fa070-1030-4f73-8b72-4871f1b9707c)
+
+
+![gcp](https://github.com/David-L-R/David-L-R/assets/31222514/66333c97-1cc9-4960-9517-d05d9aa00004)
+
+
+![react-native](https://github.com/David-L-R/David-L-R/assets/31222514/db68121c-7533-4340-99e0-a8617d74fbca)
+
+
+![svelte](https://github.com/David-L-R/David-L-R/assets/31222514/61ab85a0-2950-44a8-91af-e4b51a3d1f8c)
+
+
+![kotlin](https://github.com/David-L-R/David-L-R/assets/31222514/a56c7585-2360-419a-9a69-47f684aedeb8)
+
+![swift](https://github.com/David-L-R/David-L-R/assets/31222514/94dbc553-7b54-4cd4-a95e-3bbb9caaadaf)
+
+
+
+
 
