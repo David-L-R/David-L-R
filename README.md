@@ -1,8 +1,8 @@
 <img src="https://github.com/David-L-R/David-L-R/assets/31222514/87c634a2-f3ad-4ab9-a443-5f4a21ddb434" width="100%"/>
 
-# [Webeet.io](https://www.webeet.io/student)
+# Webeet.io
 
-We offer a one-of-a-kind advanced training that aims to improve the technical skills of juniors and help them land their first job. 
+We offer one-of-a-kind advanced training that aims to improve the technical skills of juniors and help them land their first job. 
 
 This training includes:
 
@@ -35,4 +35,40 @@ We have partnered with Udemy-Business to curate the best learning paths:
 5. Monitoring & Observability (Prometheus, Grafana, Elastic)
 6. Micro Services (Kafka)
 
-###
+### Web Development
+
+1. HTML5 and CSS3
+2. Javascript
+3. Typescript
+4. React Hooks
+5. Redux
+6. Node.js
+7. Express.js
+8. MongoDB
+9. Full Stack Development (MERN)
+10. Bonus: Angular, Vue and Svelte
+
+### Mobile Development
+
+1. React Native (Cross-platform)
+2. Flutter (Cross-platform)
+3. Swift (iOS)
+4. Kotlin (Android)
+
+### Data Engineering
+
+1. Python
+2. Data Engineering (SQL, Python, and PySpark)
+3. Machine Learning (AI, Python and R)
+4. Data Science (NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, and more!)
+5. Deep Learning (Google Tensorflow)
+6. Big Data (PySpark, Apache AirFlow, Apache Beam, Data Build Tool, SQL and Google Big Query)
+7. Visualization (Tableau)
+
+### Cloud Engineering
+
+1. AWS (Amazon) certificates
+2. Azure (Microsoft) certificates
+3. GCP (Google) certificates
+
+## Want to join us? Apply on webeet.io/student
