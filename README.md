@@ -1,72 +1,20 @@
-<img src="https://github.com/David-L-R/David-L-R/assets/31222514/87c634a2-f3ad-4ab9-a443-5f4a21ddb434" width="100%"/>
+# 🔥 Who
 
-# Webeet.io
+A technology-education specialist and software developer with extensive experience leading both teams and projects and over a decade of teaching students and training staff.
 
-We offer one-of-a-kind advanced training that aims to improve the technical skills of juniors and help them land their first job. 
+At the age of seven, I discovered an interest when I was teaching my stuffed animals the things I have learned in school. That early fascination has since expanded into a relentless passion that's only grown over time.
 
-This training includes:
+I firmly believe in cultivating a sense of intellectual curiosity and intrinsic motivation in learners. My objective is to foster independence in learning, thereby creating a breed of enthusiastic scholars who are passionate about their own educational growth and development.
 
-1. Joining an internship in a company
-2. A senior developer to guide you through the project
-3. One-on-one mock interviews with industry leaders
-4. Interview preparation sessions
-5. Access to our E-Learning Platform
+Growth mindset https://lnkd.in/e9-MGwrE
+Overcoming fear https://lnkd.in/egd8Pib3
+Taking risks https://lnkd.in/eysiGXhE
 
-## Our E-learning Platform
+# 🔨 What
+I am the head of the web domain @Masterschool. We are building the biggest success-based school for a variety of technical domains. I am a senior developer with over a decade of teaching experience and years of experience running schools and managing hundreds of teacher.
 
-We have partnered with [Udemy-Business](https://masterschool.udemy.com/) to curate the best learning paths:
+I am responsible for curating the content of all web development courses, basic and advanced, training mentors and instructors and creating teaching guidelines, and mentoring hundreds of students in the intensive process of becoming full-stack web developers.
 
-### Software Engineering
+# 🎓 Teaching
 
-1. OOP (with Java)
-2. Micro Service Architecture (Docker, K8S, GitHub Actions, and Kafka)
-3. Operating Systems
-4. Computer Architecture
-5. Advanced Topics with GO, Rust, Kotlin, and C#
-
-### DevOps
-
-1. Containerisation (Docker)
-2. Orchestration (K8S)
-3. Infrastructure as Code (Terraform)
-4. CI/CD (GitHub actions and Helm)
-5. Monitoring & Observability (Prometheus, Grafana, Elastic)
-6. Micro Services (Kafka)
-
-### Web Development
-
-1. HTML5 and CSS3
-2. Javascript
-3. Typescript
-4. React Hooks
-5. Redux
-6. Node.js
-7. Express.js
-8. MongoDB
-9. Full Stack Development (MERN)
-10. Bonus: Angular, Vue and Svelte
-
-### Mobile Development
-
-1. React Native (Cross-platform)
-2. Flutter (Cross-platform)
-3. Swift (iOS)
-4. Kotlin (Android)
-
-### Data Engineering
-
-1. Python
-2. Data Engineering (SQL, Python, and PySpark)
-3. Machine Learning (AI, Python and R)
-4. Data Science (NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, and more!)
-5. Deep Learning (Google Tensorflow)
-6. Big Data (PySpark, Apache AirFlow, Apache Beam, Data Build Tool, SQL and Google Big Query)
-7. Visualization (Tableau)
-
-### Cloud Engineering
-
-1. AWS (Amazon) certificates
-2. Azure (Microsoft) certificates
-3. GCP (Google) certificates
-
-<h1>Want to join us?  Apply on: <a href="https://www.webeet.io/student" target="_blank">webeet.io</a></h1>
+Typescript & Javascript | Java | Go | Python | HTML & CSS (Sass + Styled components) | React & NextJS | Redux | Node & Express | Jest & Testing-library | Git | MongoDB & Postgres | Kubernetes | Docker | Kafka
