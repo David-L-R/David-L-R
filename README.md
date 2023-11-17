@@ -6,9 +6,9 @@ At the age of seven, I discovered an interest when I was teaching my stuffed ani
 
 I firmly believe in cultivating a sense of intellectual curiosity and intrinsic motivation in learners. My objective is to foster independence in learning, thereby creating a breed of enthusiastic scholars who are passionate about their own educational growth and development.
 
-Growth mindset https://lnkd.in/e9-MGwrE
-Overcoming fear https://lnkd.in/egd8Pib3
-Taking risks https://lnkd.in/eysiGXhE
+- Growth mindset https://lnkd.in/e9-MGwrE
+- Overcoming fear https://lnkd.in/egd8Pib3
+- Taking risks https://lnkd.in/eysiGXhE
 
 # 🔨 What
 I am the head of the web domain @Masterschool. We are building the biggest success-based school for a variety of technical domains. I am a senior developer with over a decade of teaching experience and years of experience running schools and managing hundreds of teacher.
