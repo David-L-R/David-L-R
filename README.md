@@ -17,8 +17,8 @@ I am responsible for curating the content of all web development courses, basic 
 
 # 🎓 Teaching
 
-- **Programming Languages** - Typescript, Javascript, Java, Go, Python, HTML & CSS (Sass + Styled components)
+- **Programming Languages** - Typescript, Javascript, , Python, Java, Go HTML & CSS (Sass + Styled components)
 - **Frontend Technologies** - React, NextJS, Redux, React Testing Library, Jest
-- **Backend Technologies** - Node, Express, SpringBoot
-- **Databases** - MongoDB & Postgres
+- **Backend Technologies** - Node, Express, Flask, SpringBoot
+- **Databases** - MongoDB, PostgreSQL, MySQL, Redis, Firebase
 - **CI/CD** - Docker, Kubernetes, Kafka, Terraform, Ansible
