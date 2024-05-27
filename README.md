@@ -1,5 +1,1 @@
-
-![the-great-wave-of-kanagawa-art-plain](https://github.com/David-L-R/David-L-R/assets/31222514/8a6cec83-4258-4c12-87d5-4a1b218a892a)
-
-
-A technology-education specialist and software developer with extensive experience leading both teams and projects and over a decade of teaching students and training staff.
+![A recreation of 'The Great Wave off Kanagawa' by Hokusai in the traditional Japanese ukiyo-e style  Instead of boats, there are cats surfing on the waves](https://github.com/David-L-R/David-L-R/assets/31222514/0c9a454c-847f-4ee3-9daf-64a40a63d398)
