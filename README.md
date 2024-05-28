@@ -1,1 +1,1 @@
-![A recreation of 'The Great Wave off Kanagawa' by Hokusai in the traditional Japanese ukiyo-e style  Instead of boats, there are cats surfing on the waves](https://github.com/David-L-R/David-L-R/assets/31222514/0c9a454c-847f-4ee3-9daf-64a40a63d398)
+![banana](https://github.com/David-L-R/David-L-R/assets/31222514/415cb158-6580-4777-a057-5f645c1a0795)
