@@ -1,10 +1,5 @@
 # Hello 👋
 
-## I am David
+I am David. 
 
-### I love
-- cats
-- my kids
-- my wife
-
-in that order.
+I run the studio webeet.io, where we prove how junior talent can impact the world. 
