@@ -21,7 +21,7 @@ Now, I am responsible for creating some of the most innovative TechEd programs i
 
 # 🛠️ Tech Stack
 
-<p align="center" height="40px">
+<p align="center" maxHeight="40px">
   <img src="https://github.com/user-attachments/assets/999012a2-b7c9-4539-a319-485cfef17f31" alt="typescript" />
   <img height="40px" src="https://github.com/user-attachments/assets/b0125352-61e3-4a7b-bc90-ff8ef5f46f19" alt="javascript" />
   <img height="40px" src="https://github.com/user-attachments/assets/002866a8-9715-4c93-af7e-9950ae95bdd3" alt="go"/>
