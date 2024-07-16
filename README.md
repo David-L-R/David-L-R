@@ -18,4 +18,5 @@ Now, I am responsible for creating some of the most innovative TechEd programs i
 
 # 🛠️ Other Projects
 
-I run the studio [webeet.io](https://www.webeet.io), where we prove that junior talent can impact the world. 
+- I run the studio [webeet.io](https://www.webeet.io), where we prove that junior talent can impact the world.
+- I am the Head of R&D of (MindGuard)[https://www.getmindguard.com], an app designed to help women reduce exposure to distressing content online, particularly in the aftermath of the events on October 7th in Israel.
