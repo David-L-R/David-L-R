@@ -16,7 +16,14 @@ After two years as a lead software engineer in the health care sector, building 
 
 Now, I am responsible for creating some of the most innovative TechEd programs in [Masterschool](https://www.masterschool.com), soon to be the biggest technological school in the world.
 
-# 🛠️ Other Projects
+# 🏗️ Other Projects
 
 - I run the studio [webeet.io](https://www.webeet.io), where we prove that junior talent can impact the world.
 - I am the Head of R&D of [MindGuard](https://www.getmindguard.com), an app designed to help women reduce exposure to distressing content online, particularly in the aftermath of the events on October 7th in Israel.
+
+# 🛠️ Tech Stack
+
+
+<p align="center">
+<img height="40px" src-"https://github.com/user-attachments/assets/f5141c67-a4e3-41a2-9412-24b6b79c09c6"/>
+</p>
