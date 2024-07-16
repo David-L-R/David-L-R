@@ -1,5 +1,3 @@
-<img width="1062" alt="teaching" src="https://github.com/user-attachments/assets/f7fe62e4-15b8-4f27-838b-ddc1b7824265">
-
 # 📖 My Story
 
 I have a passion for teaching and mentoring since I can remember myself. I have been tutoring other kids since I was 11, and at the age of 16 I opened an after-school program to help elemntry school students prepare for junior-high.
