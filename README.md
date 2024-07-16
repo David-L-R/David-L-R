@@ -23,4 +23,4 @@ Now, I am responsible for creating some of the most innovative TechEd programs i
 
 # 🛠️ Tech Stack
 
-<img src="https://github.com/user-attachments/assets/f5141c67-a4e3-41a2-9412-24b6b79c09c6" />
+<img height="40px" src="https://github.com/user-attachments/assets/f5141c67-a4e3-41a2-9412-24b6b79c09c6" />
