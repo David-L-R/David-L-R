@@ -1,23 +1,32 @@
-# 📖 My Story
+# 📖 Early life
 
 I have a passion for teaching and mentoring since I can remember myself. I have been tutoring other kids since I was 11, and at the age of 16 I opened an after-school program to help elemntry school students prepare for junior-high.
 
-At 18, I was servicing in a reconnaisance unit in the IDF, and continued to serve for 8 years in different data-related technical positions. There I relaized my passion for technology, and numbers (learning for a bachelor's in Mathematics in Tel Aviv university).
+In highschool I chose physics and computer science as my majors, where I really discovered my love for technology and science.
 
-After the army, I went to prepare students for SAT exams (university admissions tests) in a school specializing in teaching students with ADHD and learning disorders.
+# 📖 Experience
 
-Eventually, I managed the entire educational department, and later continued to manage the development of all digital products of the school.
+### 2006 - 2014 Intelligence Analyst
 
-At this point, after 5 years not being involved in technology, I noticed that I really want to combine education and technology. I quit the SAT school (after 10 years!) and pursued a position as a software engineer.
+At 18, I have enlisted in a technical unit as an **intelligence analyst** and continued to serve for 8 years in different data-related technical positions. While in service, I have studied for a **bachelor's in Mathematics** in Tel Aviv university.
 
-After two years as a lead software engineer in the health care sector, building some of the most innovative products in the Netherlands, I finally found a position that combines both of my passions.
+### 2014 - 2018 Head of Product
+
+After the army, I wanted to dive deepr into **product and project management** and I led the entire educational department of Zinuk Schools, a chain of SAT prep schools, where I led the expansion to over 100 instructors, 7 locations, and thousands of students.
+
+### 2018 - 2021 Software Engineer
+
+I moved to Amsterdam and decided to pursue a more technical role again. I worked as a software engineer in the healthcare sector, building some of the most innovative products in the Netherland.
+
+### 2022 - Present Engineering Manager & Educator
 
 Now, I am responsible for creating some of the most innovative TechEd programs in [Masterschool](https://www.masterschool.com), soon to be the biggest technological school in the world.
 
-# 🏗️ Other Projects
+I initated the "Studio" program - [webeet.io](https://www.webeet.io) - where we prove that junior talent can impact the world.
 
-- I run the studio [webeet.io](https://www.webeet.io), where we prove that junior talent can impact the world.
-- I am the Head of R&D of [MindGuard](https://www.getmindguard.com), an app designed to help women reduce exposure to distressing content online, particularly in the aftermath of the events on October 7th in Israel.
+# 🛡️ Volunteering
+
+I am the Head of R&D of [MindGuard](https://www.getmindguard.com), an app designed to help women reduce exposure to distressing content online, particularly in the aftermath of the events on October 7th in Israel.
 
 # 🛠️ Tech Stack
 
