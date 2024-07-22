@@ -28,7 +28,7 @@ I initated the "Studio" program - [webeet.io](https://www.webeet.io) - where we 
 
 I am the Head of R&D of [MindGuard](https://www.getmindguard.com), an app designed to help women reduce exposure to distressing content online, particularly in the aftermath of the events on October 7th in Israel.
 
-# 🛠️ Tech Stack
+# 📦 Tech Stack
 
 <p align="center">
   <img height="80px" src="https://github.com/user-attachments/assets/999012a2-b7c9-4539-a319-485cfef17f31" alt="typescript" />
