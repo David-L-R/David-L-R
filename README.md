@@ -4,7 +4,7 @@ I have a passion for teaching and mentoring since I can remember myself. I have 
 
 In highschool I chose physics and computer science as my majors, where I really discovered my love for technology and science.
 
-# 📖 Experience
+# 🛠️ Experience
 
 ### 2006 - 2014 Intelligence Analyst
 
