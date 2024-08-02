@@ -6,21 +6,21 @@ In high school, I chose physics and computer science as my majors, where I disco
 
 # 🛠️ Experience
 
-### 2022 - Present Engineering Manager & Educator
+### [2022 - Present] Engineering Manager & Educator
 
 Now, I am responsible for creating some of the most innovative TechEd programs in [Masterschool](https://www.masterschool.com), which will soon be the most significant technological school in the world.
 
 I initiated the "Studio" program—[webeet.io](https://www.webeet.io)—where we prove that junior talent can impact the world.
 
-### 2018 - 2021 Software Engineer
+### [2018 - 2021] Software Engineer
 
 I moved to Amsterdam and decided to pursue a more technical role again. I worked as a software engineer in the healthcare sector, building some of the most innovative products in the Netherland.
 
-### 2014 - 2018 Head of Product
+### [2014 - 2018] Head of Product
 
 After the army, I wanted to dive deeper into product and project management. I led the entire educational department of Zinuk Schools, a chain of SAT prep schools, where I led the expansion to over 100 instructors, 7 locations, and thousands of students.
 
-### 2006 - 2014 System Integration Engineer
+### [2006 - 2014] System Integration Engineer
 
 At 18, I enlisted in a technical unit as a **System Integration Engineer** and continued to serve for 8 years in different data-related technical positions. While in service, I studied for a **bachelor's in Mathematics** at Tel Aviv University.
 
