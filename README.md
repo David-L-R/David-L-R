@@ -1,28 +1,28 @@
 # 📖 Early life
 
-I have a passion for teaching and mentoring since I can remember myself. I have been tutoring other kids since I was 11, and at the age of 16 I opened an after-school program to help elemntry school students prepare for junior-high.
+I have had a passion for teaching and mentoring since I can remember. I have been tutoring other kids since I was 11, and at the age of 16, I opened an after-school program to help elementary school students prepare for junior high.
 
-In highschool I chose physics and computer science as my majors, where I really discovered my love for technology and science.
+In high school, I chose physics and computer science as my majors, where I discovered my love for technology and science.
 
 # 🛠️ Experience
 
-### 2006 - 2014 Intelligence Analyst
+### 2022 - Present Engineering Manager & Educator
 
-At 18, I have enlisted in a technical unit as an **intelligence analyst** and continued to serve for 8 years in different data-related technical positions. While in service, I have studied for a **bachelor's in Mathematics** in Tel Aviv university.
+Now, I am responsible for creating some of the most innovative TechEd programs in [Masterschool](https://www.masterschool.com), which will soon be the most significant technological school in the world.
 
-### 2014 - 2018 Head of Product
-
-After the army, I wanted to dive deepr into **product and project management** and I led the entire educational department of Zinuk Schools, a chain of SAT prep schools, where I led the expansion to over 100 instructors, 7 locations, and thousands of students.
+I initiated the "Studio" program—[webeet.io](https://www.webeet.io)—where we prove that junior talent can impact the world.
 
 ### 2018 - 2021 Software Engineer
 
 I moved to Amsterdam and decided to pursue a more technical role again. I worked as a software engineer in the healthcare sector, building some of the most innovative products in the Netherland.
 
-### 2022 - Present Engineering Manager & Educator
+### 2014 - 2018 Head of Product
 
-Now, I am responsible for creating some of the most innovative TechEd programs in [Masterschool](https://www.masterschool.com), soon to be the biggest technological school in the world.
+After the army, I wanted to dive deeper into product and project management. I led the entire educational department of Zinuk Schools, a chain of SAT prep schools, where I led the expansion to over 100 instructors, 7 locations, and thousands of students.
 
-I initated the "Studio" program - [webeet.io](https://www.webeet.io) - where we prove that junior talent can impact the world.
+### 2006 - 2014 System Integration Engineer
+
+At 18, I enlisted in a technical unit as a **System Integration Engineer** and continued to serve for 8 years in different data-related technical positions. While in service, I studied for a **bachelor's in Mathematics** at Tel Aviv University.
 
 # 🛡️ Volunteering
 
