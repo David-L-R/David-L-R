@@ -1,36 +1,4 @@
-# 📖 Early life
-
-I have had a passion for teaching and mentoring since I can remember. I have been tutoring other kids since I was 11, and at the age of 16, I opened an after-school program to help elementary school students prepare for junior high.
-
-In high school, I chose physics and computer science as my majors, where I discovered my love for technology and science.
-
-# 🛠️ Experience
-
-### [2022 - Present] 
-## Engineering Manager & Educator
-
-Now, I am responsible for creating some of the most innovative TechEd programs in [Masterschool](https://www.masterschool.com), which will soon be the most significant technological school in the world.
-
-I initiated the "Studio" program—[webeet.io](https://www.webeet.io)—where we prove that junior talent can impact the world.
-
-### [2018 - 2021] 
-## Software Engineer
-
-I moved to Amsterdam and decided to pursue a more technical role again. I worked as a software engineer in the healthcare sector, building some of the most innovative products in the Netherland.
-
-### [2014 - 2018] 
-## Head of Product
-
-After the army, I wanted to dive deeper into product and project management. I led the entire educational department of Zinuk Schools, a chain of SAT prep schools, where I led the expansion to over 100 instructors, 7 locations, and thousands of students.
-
-### [2006 - 2014] 
-## System Integration Engineer
-
-At 18, I enlisted in a technical unit as a **System Integration Engineer** and continued to serve for 8 years in different data-related technical positions. While in service, I studied for a **bachelor's in Mathematics** at Tel Aviv University.
-
-# 🛡️ Volunteering
-
-I am the Head of R&D of [MindGuard](https://www.getmindguard.com), an app designed to help women reduce exposure to distressing content online, particularly in the aftermath of the events on October 7th in Israel.
+I am the Head of R&D of [MindGuard](https://www.getmindguard.com) and [webeet.io](https://www.webeet.io), building the next generation of healthy productivity.
 
 # 📦 Tech Stack
 
