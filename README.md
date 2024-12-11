@@ -1,8 +1,8 @@
 # Currently
 
-- Founder and CEO at [webeet.io](webeet.io)
-- Interim CTO at [Mind Guard](getmindguard.com)
-- Software Engineering Curriculum Consultant at [Masterschool](Masterschool.com)
+- Founder and CEO at [webeet.io](https://www.webeet.io)
+- Interim CTO at [Mind Guard](https://www.getmindguard.com)
+- Software Engineering Curriculum Consultant at [Masterschool](https://www.masterschool.com)
 
 # 📦 Tech Stack
 
