@@ -1,4 +1,8 @@
-I am the Head of R&D of [MindGuard](https://www.getmindguard.com) and [webeet.io](https://www.webeet.io), building the next generation of healthy productivity.
+# Currently
+
+- Founder and CEO at [webeet.io](webeet.io)
+- Interim CTO at [Mind Guard](getmindguard.com)
+- Software Engineering Curriculum Consultant at [Masterschool](Masterschool.com)
 
 # 📦 Tech Stack
 
