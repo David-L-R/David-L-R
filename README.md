@@ -36,4 +36,20 @@ We’re not just offering you a job—we’re providing a transformative opportu
 
 Check our career program: [webeet.io/careers](https://www.webeet.io/careers)
 
+</br>
+<div align="center">
+  <a href="https://getmindguard.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/8aa7281f-8527-4fd7-8160-5fb2f6497020" alt="mind-guard" width="200" />
+    </a>
+</div>
+</br>
 
+Unlock a healthier, more productive day with AI-powered insights. We make your favorite tools—like Slack, Asana, and Google Calendar—work smarter for you, not against you:
+
+- Stop the Noise: Manage constant notifications and collaboration overload.
+- Maximize your Effectiveness: Reduce energy-draining context switching.
+- Optimize Your Workflow: Get personalized insights and actionable suggestions tailored to how you work.
+
+Mind Guard turns productivity challenges into opportunities for healthier, more efficient days.
+
+Visit us at: [Mind Guard](https://getmindguard.com)
