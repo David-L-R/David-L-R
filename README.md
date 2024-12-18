@@ -32,7 +32,7 @@ We bring the tools and talent needed to turn your vision into reality. With our 
 
 ### Careers
 
-At webeet.io, we’re not just offering you a job—we’re providing a transformative opportunity to launch your career in tech. Our program is the next generation of training, combining real-world industry projects, mentorship from experienced professionals, and structured learning to help you succeed.
+We’re not just offering you a job—we’re providing a transformative opportunity to launch your career in tech. Our program is the next generation of training, combining real-world industry projects, mentorship from experienced professionals, and structured learning to help you succeed.
 
 Check our career program: [webeet.io/careers](https://www.webeet.io/careers)
 
