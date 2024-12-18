@@ -6,7 +6,7 @@
 </br>
 
 <div align="center">
-  <a href="https://webeet.io">
+  <a href="https://webeet.io" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/user-attachments/assets/37ca20b3-a67b-4f91-905c-85fa0a334b1c" alt="webeet" width="200" />
     </a>
 </div>
