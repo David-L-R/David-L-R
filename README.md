@@ -3,10 +3,9 @@
 - Interim CTO at [Mind Guard](https://www.getmindguard.com) [October 2023 - Present]
 - Software Engineering Curriculum Consultant at [Masterschool](https://www.masterschool.com) [2022 - Present]
 
-<p style={"textAlign": "center"} >
-  
-  <img src="https://github.com/user-attachments/assets/37ca20b3-a67b-4f91-905c-85fa0a334b1c" alt="webeet" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/37ca20b3-a67b-4f91-905c-85fa0a334b1c" alt="webeet" width="300" />
+</div>
 
 ## webeet.io
 
