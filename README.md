@@ -13,9 +13,14 @@
 
 ## webeet.io
 
-At webeet.io, we specialize in delivering sophisticated digital solutions tailored to startups' unique needs. Our expertise spans superior web development, insightful data analytics, cutting-edge AI integration, and robust cybersecurity. We’re dedicated to providing top-tier services that empower businesses to innovate, scale, and thrive without breaking the bank.
+We specialize in delivering sophisticated digital solutions tailored to startups' unique needs. Our expertise spans superior web development, insightful data analytics, cutting-edge AI integration, and robust cybersecurity. We’re dedicated to providing top-tier services that empower businesses to innovate, scale, and thrive without breaking the bank.
 
-Whether you’re building your first product, optimizing operations, or enhancing security, we bring the tools and talent needed to turn your vision into reality. With our startup-friendly pricing and commitment to excellence, your success story begins here. Let us help you take your business to new heights.
+Whether you’re 
+- building your first product
+- optimizing operations
+- or enhancing security
+
+We bring the tools and talent needed to turn your vision into reality. With our startup-friendly pricing and commitment to excellence, your success story begins here. Let us help you take your business to new heights.
 
 ### Services
 
@@ -25,7 +30,7 @@ Whether you’re building your first product, optimizing operations, or enhancin
 - AI and ML Integration
 - Security Analysis
 
-## Careers
+### Careers
 
 At webeet.io, we’re not just offering you a job—we’re providing a transformative opportunity to launch your career in tech. Our program is the next generation of training, combining real-world industry projects, mentorship from experienced professionals, and structured learning to help you succeed.
 
