@@ -5,9 +5,9 @@
 
 </br>
 
-<div align="center">
+<div>
   <a href="https://webeet.io" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/user-attachments/assets/37ca20b3-a67b-4f91-905c-85fa0a334b1c" alt="webeet" width="200" />
+  <img src="https://github.com/user-attachments/assets/37ca20b3-a67b-4f91-905c-85fa0a334b1c" alt="webeet" width="100" />
     </a>
 </div>
 
@@ -39,9 +39,9 @@ We’re not just offering you a job—we’re providing a transformative opportu
 Check our career program: [webeet.io/careers](https://www.webeet.io/careers)
 
 </br>
-<div align="center">
+<div>
   <a href="https://getmindguard.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/user-attachments/assets/8aa7281f-8527-4fd7-8160-5fb2f6497020" alt="mind-guard" width="200" />
+  <img src="https://github.com/user-attachments/assets/8aa7281f-8527-4fd7-8160-5fb2f6497020" alt="mind-guard" width="100" />
     </a>
 </div>
 </br>
@@ -56,12 +56,12 @@ Unlock a healthier, more productive day with AI-powered insights. We make your f
 
 Mind Guard turns productivity challenges into opportunities for healthier, more efficient days.
 
-Visit us at: [Mind Guard](https://getmindguard.com)
+Visit us at [Mind Guard](https://getmindguard.com)
 
 </br>
-<div align="center">
+<div>
   <a href="https://getmindguard.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/user-attachments/assets/ed5b0d2d-2f88-4b66-ac95-cfdbf9db6f71" alt="mind-guard" width="200" />
+  <img src="https://github.com/user-attachments/assets/ed5b0d2d-2f88-4b66-ac95-cfdbf9db6f71" alt="mind-guard" width="100" />
     </a>
 </div>
 </br>
@@ -71,7 +71,7 @@ Visit us at: [Mind Guard](https://getmindguard.com)
 Build your tech career with industry experts.
 
 ### Exceptional training methods
-Our training methods and curriculum are developed for the industry, by the industry. With a flexible online schedule, live sessions, 1:1 mentorships, and 24/7 support, our program fits the busy schedules of those looking for a comprehensive learning experience.
+Our training methods and curriculum are developed for the industry by the industry. With a flexible online schedule, live sessions, 1:1 mentorships, and 24/7 support, our program fits the busy schedules of those looking for a comprehensive learning experience.
 
 
 ### Learn from industry experts
