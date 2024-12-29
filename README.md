@@ -58,12 +58,14 @@ Mind Guard turns productivity challenges into opportunities for healthier, more 
 
 Visit us at [Mind Guard](https://getmindguard.com)
 
+</br>
+
 <div>
   <a href="https://getmindguard.com" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/user-attachments/assets/ed5b0d2d-2f88-4b66-ac95-cfdbf9db6f71" alt="mind-guard" width="100" />
     </a>
 </div>
-</br>
+
 
 ## Masterschool
 
