@@ -13,8 +13,6 @@
     </a>
 </div>
 
-</br>
-
 ## Webeet Studios
 
 We specialize in delivering sophisticated digital solutions tailored to startups' unique needs. Our expertise spans superior web development, insightful data analytics, cutting-edge AI integration, and robust cybersecurity. We’re dedicated to providing top-tier services that empower businesses to innovate, scale, and thrive without breaking the bank.
@@ -47,7 +45,6 @@ Check our career program: [webeet.io/careers](https://www.webeet.io/careers)
   <img src="https://github.com/user-attachments/assets/8aa7281f-8527-4fd7-8160-5fb2f6497020" alt="mind-guard" width="100" />
     </a>
 </div>
-</br>
 
 ## Mind Guard
 
@@ -61,7 +58,6 @@ Mind Guard turns productivity challenges into opportunities for healthier, more 
 
 Visit us at [Mind Guard](https://getmindguard.com)
 
-</br>
 <div>
   <a href="https://getmindguard.com" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/user-attachments/assets/ed5b0d2d-2f88-4b66-ac95-cfdbf9db6f71" alt="mind-guard" width="100" />
