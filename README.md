@@ -5,6 +5,8 @@
 
 </br>
 
+<div border="1px white solid" padding="10px"> 
+
 <div>
   <a href="https://webeet.io" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/user-attachments/assets/37ca20b3-a67b-4f91-905c-85fa0a334b1c" alt="webeet" width="100" />
@@ -37,6 +39,7 @@ We bring the tools and talent needed to turn your vision into reality. With our 
 We’re not just offering you a job—we’re providing a transformative opportunity to launch your career in tech. Our program is the next generation of training, combining real-world industry projects, mentorship from experienced professionals, and structured learning to help you succeed.
 
 Check our career program: [webeet.io/careers](https://www.webeet.io/careers)
+</div>
 
 </br>
 <div>
