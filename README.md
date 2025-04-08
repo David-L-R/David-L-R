@@ -1,7 +1,5 @@
 ## 👋 Me 
 - **Founder and CEO** at [webeet.io](https://www.webeet.io) [March 2023 - Present]
-- **Interim CTO** at [Mind Guard](https://www.getmindguard.com) [October 2023 - Present]
-- **Program Manager** at [Masterschool](https://www.masterschool.com) [2022 - Present]
 
 </br>
 
@@ -45,39 +43,3 @@ Check our career program: [webeet.io/careers](https://www.webeet.io/careers)
   <img src="https://github.com/user-attachments/assets/8aa7281f-8527-4fd7-8160-5fb2f6497020" alt="mind-guard" width="100" />
     </a>
 </div>
-
-## Mind Guard
-
-Unlock a healthier, more productive day with AI-powered insights. We make your favorite tools—like Slack, Asana, and Google Calendar—work smarter for you, not against you:
-
-- Stop the Noise: Manage constant notifications and collaboration overload.
-- Maximize your Effectiveness: Reduce energy-draining context switching.
-- Optimize Your Workflow: Get personalized insights and actionable suggestions tailored to how you work.
-
-Mind Guard turns productivity challenges into opportunities for healthier, more efficient days.
-
-Visit us at [Mind Guard](https://getmindguard.com)
-
-</br>
-
-<div>
-  <a href="https://getmindguard.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/user-attachments/assets/ed5b0d2d-2f88-4b66-ac95-cfdbf9db6f71" alt="mind-guard" width="100" />
-    </a>
-</div>
-
-
-## Masterschool
-
-Build your tech career with industry experts.
-
-### Exceptional training methods
-Our training methods and curriculum are developed for the industry by the industry. With a flexible online schedule, live sessions, 1:1 mentorships, and 24/7 support, our program fits the busy schedules of those looking for a comprehensive learning experience.
-
-
-### Learn from industry experts
-Your Instructors and Mentors teach and guide you through your journey at Masterschool until you find your first job. They offer you an insider’s perspective of the industry and lead 1:1 sessions. You can be sure that what you’re learning is exactly what you need to know to secure a job in the workforce today.
-
-
-### We help get you hired
-A team of dedicated individuals is working with you and behind the scenes with career coaching and advice, workshops, and networking opportunities. We help you stand out among the crowd and don’t stop until you are hired.
