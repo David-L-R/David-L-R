@@ -1,5 +1,10 @@
 ## 👋 Me 
-- **Founder and CEO** at [webeet.io](https://www.webeet.io) [March 2023 - Present]
+
+<img src="https://github.com/user-attachments/assets/dd0e7acc-f849-44ab-a64d-bf2241abd33c" width="50%"/>
+
+
+
+**Founder and CEO** at [webeet.io](https://www.webeet.io) [March 2023 - Present]
 
 </br>
 
