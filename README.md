@@ -1,9 +1,3 @@
-## 👋 Me 
-
-**Founder and CEO** at [webeet.io](https://www.webeet.io) [March 2023 - Present]
-
-</br>
-
 <div border="1px white solid" padding="10px"> 
 
 <div align="center">
@@ -13,6 +7,8 @@
 </div>
 
 <h1 align="center">Webeet Studios</h1>
+
+<p align="center" weight="bold">I am the Founder and CEO.</p>
 
 <p align="center">We specialize in delivering sophisticated digital solutions tailored to startups' unique needs. Our expertise spans superior web development, insightful data analytics, cutting-edge AI integration, and robust cybersecurity. We’re dedicated to providing top-tier services that empower businesses to innovate, scale, and thrive without breaking the bank.</p>
 
