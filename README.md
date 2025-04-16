@@ -6,7 +6,7 @@
     </a>
 </div>
 
-<h1 align="center">Webeet Studios</h1>
+<h1 align="center">Webeet Studio</h1>
 
 <p align="center" weight="bold">I am the Founder and CEO.</p>
 
