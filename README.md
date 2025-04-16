@@ -13,5 +13,3 @@
 <p align="center">We specialize in delivering sophisticated digital solutions tailored to startups' unique needs. Our expertise spans software development, data analytics and engineering, AI integration, and cybersecurity. We’re dedicated to providing top-tier services that empower businesses to innovate, scale, and thrive without breaking the bank.</p>
 
 <p align="center">We bring the tools and talent needed to turn your vision into reality. With our startup-friendly pricing and commitment to excellence, your success story begins here. Let us help you take your business to new heights.</p>
-
-<p>Best, </br>David </br>Founder & CEO</p>
