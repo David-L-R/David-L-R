@@ -14,6 +14,4 @@
 
 <p align="center">We bring the tools and talent needed to turn your vision into reality. With our startup-friendly pricing and commitment to excellence, your success story begins here. Let us help you take your business to new heights.</p>
 
-<p align="center">Best,</p>
-<p align="center">David</p>
-<p align="center">Founder & CEO</p>
+<p>Best, </br>David </br>Founder & CEO</p>
