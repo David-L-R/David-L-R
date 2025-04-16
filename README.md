@@ -8,11 +8,11 @@
 
 <div align="center">
   <a href="https://webeet.io" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/user-attachments/assets/37ca20b3-a67b-4f91-905c-85fa0a334b1c" alt="webeet" width="100" />
+  <img src="https://github.com/user-attachments/assets/37ca20b3-a67b-4f91-905c-85fa0a334b1c" alt="webeet" width="250" />
     </a>
 </div>
 
-## Webeet Studios
+<h1 align="center">Webeet Studios</h1>
 
 We specialize in delivering sophisticated digital solutions tailored to startups' unique needs. Our expertise spans superior web development, insightful data analytics, cutting-edge AI integration, and robust cybersecurity. We’re dedicated to providing top-tier services that empower businesses to innovate, scale, and thrive without breaking the bank.
 
