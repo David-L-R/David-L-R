@@ -1,1 +1,1 @@
-<img width="1536" height="1024" alt="webeet logo" src="https://github.com/user-attachments/assets/9127e4c4-41ae-4c18-b897-3a1667348702" />
+<img width="962" height="215" alt="banana cover" src="https://github.com/user-attachments/assets/2ec9ac29-909e-4d7c-a2af-18e2a7834c43" />
