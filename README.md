@@ -1,4 +1,5 @@
-<img width="962" height="215" alt="banana cover" src="https://github.com/user-attachments/assets/2ec9ac29-909e-4d7c-a2af-18e2a7834c43" />
+<img width="1024" height="1024" alt="duct-tape-banana-no-bg" src="https://github.com/user-attachments/assets/5ee2331e-fa7e-4a13-9b9b-26c87e476d59" />
+
 
 # [Webeet.io](https://www.webeet.io)
 
