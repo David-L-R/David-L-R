@@ -1,6 +1,7 @@
+<a src="https://wwww.webeet.io" target="_blank">
 <p align="center">
-  <a src="https://wwww.webeet.io">
+  
     <img width="50%" alt="duct-tape-banana-no-bg" src="https://github.com/user-attachments/assets/5ee2331e-fa7e-4a13-9b9b-26c87e476d59" />
-  </a>
+  
 </p>
-
+</a>
